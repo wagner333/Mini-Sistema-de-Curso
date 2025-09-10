@@ -1,0 +1,15 @@
+{
+    "name": "wagner/ette",
+    "autoload": {
+        "psr-4": {
+            "Wagner\\Ette\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wagner",
+            "email": "wwfome6@gmail.com"
+        }
+    ],
+    "require": {}
+}
